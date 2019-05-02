@@ -6,3 +6,5 @@
 # Start MYSQL on Terminal
 
 - mysql -u root -p
+
+#Git
