@@ -6,3 +6,8 @@
 # Start MYSQL on Terminal
 
 - mysql -u root -p
+
+# SQL Anweisung / Befehle
+
+- https://www.tutorialspoint.com/sql/index.htm
+- https://www.w3schools.com/sql/sql_join_inner.asp
